@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-font{
+    font-family: cursive;
+}
+.nav-font:hover{
+   color: #ffbd39 !important;
+}
+.hello{
+    padding: 50px 30px 10px;
+}
+.jay-design{
+    font-size: 46px;
+    font-family: auto;
+    font-weight: 900;
+}
+.hello h4{
+    color: #ffbd39; 
+}
+.about-section{
+    padding: 2rem 0;
+
+
+}
+.about-me{
+    font-size: 45px;
+    /* font-family: ; */
+    font-weight: 900;
+}
+.project{
+    font-size: 30px;
+    color: #ffbd39;
+}
+
+.about-li li{
+    font-size: 20px;
+    font-weight: 600;
+    list-style: none;
+}
+
+.date{
+    font-weight: 900;
+    font-size: 26px;
+    color: #ffbd39;
+}
+.position{
+    font-size: 17px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color:#999999;
+
+}
+.grey{
+    color:#999999;
+}
+
+/* .navbar-toggler{
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    transition: box-shadow .15s ease-in-out;
+} */
+
+.tog-white{
+    background-color: white !important;
+}
+
+.education-wrap{
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+
+
+
+
+.foot-para{
+font-family: cursive;
+text-align: right;
+    margin-right: 53px;
+    color: #ffbd39;
+}
+
+
+
+
+@media screen and (max-width: 800px) {
+   
+    .hello {
+        padding: 0px 30px 10px;
+    }
+  }
