@@ -99,7 +99,9 @@ font-family: cursive;
 font-size: 35px;
   color: #ffbd39;
 }
-
+.icon-color{
+    color: #ffbd39 !important;
+}
 
 
 
