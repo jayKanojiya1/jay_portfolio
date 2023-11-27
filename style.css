@@ -80,15 +80,24 @@
     background: rgba(255, 255, 255, 0.1);
 }
 
+.github{
+    color: #ffbd39;
+    font-size: 35px;
+}
+.linkedin{
+    color: #ffbd39;
+    font-size: 35px;
+}
 
-
-
+.foot-icon{
+    display: flex;
+    justify-content: space-around;
+}
 
 .foot-para{
 font-family: cursive;
-text-align: right;
-    margin-right: 53px;
-    color: #ffbd39;
+font-size: 35px;
+  color: #ffbd39;
 }
 
 
